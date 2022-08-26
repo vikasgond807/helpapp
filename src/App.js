@@ -21,14 +21,15 @@ function App() {
           </div>
           <div className="paths">
             <Routes>
-              <Route path="/helpapp" element={<Login />} />
-              <Route path="/default" element={<Default />} />
-              <Route path='/reset' element={<Reset />} />
-              <Route path='/delete' element={<Delete />} />
-              <Route path='edit' element={<Edit />} />
-              <Route path='/detection' element={<Detection />} />
-              <Route path='/addgesture' element={<AddGesture />} />
-              <Route path='/faq' element={<Faq />} />
+              <Route exact path='/' element={<Login/>}></Route>
+              <Route exact path="/helpapp" element={<Login />} />
+              <Route exact path="/default" element={<Default />} />
+              <Route exact path='/reset' element={<Reset />} />
+              <Route exact path='/delete' element={<Delete />} />
+              <Route exact path='edit' element={<Edit />} />
+              <Route exact path='/detection' element={<Detection />} />
+              <Route exact path='/addgesture' element={<AddGesture />} />
+              <Route exact path='/faq' element={<Faq />} />
             </Routes>
           </div>
         </div>

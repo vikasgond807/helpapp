@@ -22,7 +22,7 @@ const Sidebar = () => {
         </SidebarHeader>
         <Menu iconShape="square">
           <MenuItem icon={<FaGem />}>
-            <Link to="/">Login & Register</Link>
+            <Link to="/helpapp">Login & Register</Link>
           </MenuItem>
           
           <MenuItem icon={<FaGem />}>
