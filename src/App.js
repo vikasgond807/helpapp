@@ -21,7 +21,7 @@ function App() {
           </div>
           <div className="paths">
             <Routes>
-              <Route path="/" element={<Login />} />
+              <Route path="/helpapp" element={<Login />} />
               <Route path="/default" element={<Default />} />
               <Route path='/reset' element={<Reset />} />
               <Route path='/delete' element={<Delete />} />
