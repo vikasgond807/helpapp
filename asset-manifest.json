@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/helpapp/static/css/main.8ad8a655.css",
+    "main.js": "/helpapp/static/js/main.69c81730.js",
+    "static/js/787.7ea16ee2.chunk.js": "/helpapp/static/js/787.7ea16ee2.chunk.js",
+    "static/media/add3.png": "/helpapp/static/media/add3.f62c39bf3290177cae8e.png",
+    "static/media/add2.png": "/helpapp/static/media/add2.76fb3f8251985eb13c03.png",
+    "static/media/login.png": "/helpapp/static/media/login.549f136b8b6c27b4c50a.png",
+    "static/media/register3.png": "/helpapp/static/media/register3.b105eda69b2aaff8a8f8.png",
+    "static/media/register1.png": "/helpapp/static/media/register1.4fbd6e7291b3a1719e47.png",
+    "static/media/add4.png": "/helpapp/static/media/add4.32668cb7260e112bb89b.png",
+    "static/media/main2.png": "/helpapp/static/media/main2.1e7a7c7086006033f677.png",
+    "static/media/main1.png": "/helpapp/static/media/main1.92eb953693b21572151c.png",
+    "static/media/edit command.png": "/helpapp/static/media/edit command.2c9a62cbf873deb4cde0.png",
+    "static/media/delete1.png": "/helpapp/static/media/delete1.85a8863a210e9631c353.png",
+    "static/media/deleted.png": "/helpapp/static/media/deleted.95362794ccfa8f499fd0.png",
+    "static/media/settings.png": "/helpapp/static/media/settings.affe14ffd92ca9b90410.png",
+    "static/media/register2.png": "/helpapp/static/media/register2.354d429d69e81de5bccd.png",
+    "index.html": "/helpapp/index.html",
+    "main.8ad8a655.css.map": "/helpapp/static/css/main.8ad8a655.css.map",
+    "main.69c81730.js.map": "/helpapp/static/js/main.69c81730.js.map",
+    "787.7ea16ee2.chunk.js.map": "/helpapp/static/js/787.7ea16ee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ad8a655.css",
+    "static/js/main.69c81730.js"
+  ]
+}
